@@ -3,8 +3,7 @@
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
 - 🔭 I’m currently working on **sport website**
-
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and ***Python***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
